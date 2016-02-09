@@ -2,9 +2,9 @@
  * @name		jQuery CountUp Plugin
  * @author		Rafnix Guzman
  * @version 	1.0
- * @url			https://github.com/rafnixg/jQuery-countup
+ * @url			http://github.com/rafnixg/countup-jquery
  * @license		MIT License
- * 
+ * Martin Angelov http://tutorialzine.com/2011/12/countdown-jquery/
  */
 
 (function($){
