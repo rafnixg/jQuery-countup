@@ -15,3 +15,5 @@ $(function(){
 	
 });
 ```
+
+Recordar que en JS los meses van desde el 0 al 11, enero-diciembre.
